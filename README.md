@@ -15,6 +15,8 @@ To generate embeddings for the Shortest Path, you should execute the following n
 - Shortest Path Word2Vec Training.ipynb.
 
 To generate embeddings for ITDL, you should execute the following notebooks in sequence:
+- ITDL-postgres.ipynb;
+- ITDL Word2Vec Training.ipynb.
 
 Remember to update the login credentials for your database instance in each notebook.
 
