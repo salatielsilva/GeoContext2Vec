@@ -18,6 +18,6 @@ To generate embeddings for ITDL, you should execute the following notebooks in s
 - ITDL-postgres.ipynb;
 - ITDL Word2Vec Training.ipynb.
 
-Remember to update the login credentials for your database instance in each notebook.
+Remember to update the login credentials for your postgresql database instance in each notebook.
 
 Pre-calculated embeddings for all three methods can be found at the following link: https://drive.google.com/drive/folders/1mjXampBlO0fnfSCNq3F8cdqNZmnFkk1H?usp=sharing.
